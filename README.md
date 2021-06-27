@@ -6,7 +6,7 @@ structure, an array was sorted. For simulation, Keil uVision5 IDE was used.
 Min heap is a data structure. All root nodes are smaller than their children nodes. We can
 sort an array by using this data structure. Firstly, we must build an min heap structure before
 sorting. I will give an example when I used array in my project.
-![](https://abdussametkaci.github.io/HeapSort_ARM_Assembly/img/array.png)
+![](https://abdussametkaci.github.io/HeapSort_ARM_Assembly/img/array.PNG)
 This algorithm check that whether root nodes are smaller than left child and right child. If a
 child is smaller than parent node, nodes are swapped and then keep going to check all
 parent nodes.
