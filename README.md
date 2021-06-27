@@ -80,6 +80,9 @@ Furthermore, I create a map file for debugging. In this way, there is no need to
 adjust every time when we debug.
 
 File name --> Map.ini
+
 MAP 0xf0000000, 0xf0ffffff exec read write
+
 MAP 0x00000000, 0x0000ffff exec read write
+
 MAP 0xfffff000, 0xffffffff exec read write
